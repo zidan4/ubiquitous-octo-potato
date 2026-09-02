@@ -18,3 +18,10 @@ def info2( *args, **kwargs ):
   print( kwargs )
 
 info2( *courses, **students )
+
+
+letters = ["a", "b", "c", "d", "e"]
+print(letters.count("a"))
+print( len( letters ))
+print( letters.index("c"))
+print( letters[0])
