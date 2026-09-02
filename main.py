@@ -25,3 +25,7 @@ print(letters.count("a"))
 print( len( letters ))
 print( letters.index("c"))
 print( letters[0])
+
+
+print( dir(letters) )
+print( help( letters ) )
